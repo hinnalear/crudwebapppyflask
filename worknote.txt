@@ -1,0 +1,10 @@
+DB for app login
+L: racoon
+P: 6OwOYVGE9_7DiAE7
+DB: forbiddenfruit
+
+
+flask_mysqldb
+https://flask-mysqldb.readthedocs.io/en/latest/
+
+
